@@ -1,6 +1,4 @@
-package org.example.BFS;
-
-import org.example.InterviewQuestions.BinaryTreeLevelOrderTraversal;
+package org.example.DFS;
 
 public class Diameter {
     class TreeNode4 {
